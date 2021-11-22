@@ -31,3 +31,10 @@ The fully connected layers are designed to function as a controller for steering
 
 ## Usage
 
+Download the [dataset](https://drive.google.com/file/d/1Ue4XohCOV5YXy57S_5tDfCVqzLr101M7/view?usp=sharing) and extract into the [driving_dataset](driving_dataset) folder.
+
+Use `python train.py` to train the model
+
+Use `python run.py` to run the model on a live webcam feed
+
+Use `python run_dataset.py` to run the model on the dataset

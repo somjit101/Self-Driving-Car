@@ -31,7 +31,7 @@ The fully connected layers are designed to function as a controller for steering
 
 ## Usage
 
-Download the [dataset](https://drive.google.com/file/d/1Ue4XohCOV5YXy57S_5tDfCVqzLr101M7/view?usp=sharing) and extract into the [driving_dataset](driving_dataset) folder.
+Download the dataset from [here](https://drive.google.com/file/d/1Ue4XohCOV5YXy57S_5tDfCVqzLr101M7/view?usp=sharing) and extract into the [driving_dataset](driving_dataset) repository folder.
 
 Use `python train.py` to train the model
 

@@ -38,3 +38,10 @@ Use `python train.py` to train the model
 Use `python run.py` to run the model on a live webcam feed
 
 Use `python run_dataset.py` to run the model on the dataset
+
+## References
+
+* [End to End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316.pdf) - Nvidia
+* [Comma AI GitHub Repository](https://github.com/commaai/research)
+* [Udacity Self-Driving Car Dataset](https://github.com/udacity/self-driving-car/tree/master/datasets)
+* [Sully Chen's Autopilot Repository](https://github.com/SullyChen/Autopilot-TensorFlow)
